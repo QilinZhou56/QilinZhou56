@@ -8,7 +8,7 @@ Hello, I'm Qilin, a first-year graduate student at UChicago. My journey spans th
 
 ## 💡 Professional Interests
 - **Data Visualization:** Leveraging visual tools to interpret complex data.
-  - Daily Stock Price Movement with Prediction GUI: [HTML](https://github.com/qilinzho56/SP500_Voldemort)
+  - Daily Stock Price Movement with Prediction GUI: [Project Link](https://github.com/qilinzho56/SP500_Voldemort)
   - Chicago Taxi Trip 90-day Forecasts: [Interactive Forecast Visualization](https://uchicago.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=b86cf5285a344c19bc4d5244e9e0f578)
 - **Large Data Processing:** Managing and analyzing extensive datasets for social research.
 - **Fields of Interest:** Economics, Education, Language Development, Business Management
