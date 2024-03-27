@@ -10,6 +10,8 @@ Hello, I'm Qilin, a first-year graduate student at UChicago. My journey spans th
 - **Data Visualization:** Leveraging visual tools to interpret complex data.
   - Daily Stock Price Movement with Prediction GUI: [Project Link](https://github.com/qilinzho56/SP500_Voldemort)
   - Chicago Taxi Trip 90-day Forecasts with ARIMA training on 01-2018 to 12-2019 in the Loop Area: [Interactive Forecast Visualization](https://uchicago.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=b86cf5285a344c19bc4d5244e9e0f578)
+- **Text Mining:**: Feature Engineering based on token distribution and visualize network graphs for word associations
+  - [Adjective Extraction in Four-Year-Old Children's Picture-Reading Activities](https://github.com/QilinZhou56/Language-and-Cognitive-Research.git)
 - **Extensive Data Processing:** Managing and analyzing extensive datasets for social research.
   - [Resource Imbalance in Tanzanian Education: Bridging the Gap between Infrastructure and Access: 23,593 households](https://experience.arcgis.com/experience/67f3c5be15e04f859b269f6d159f25f2)
   - [Preschool Assessment Change Appears No Correlation With Enrollment and Funding in USA (2007-2020): 13788 preschool-year-old children](https://www.arcgis.com/apps/instant/interactivelegend/index.html?appid=921368870c9843fa92702d23de68526e)
