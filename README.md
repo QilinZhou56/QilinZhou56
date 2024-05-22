@@ -8,9 +8,9 @@ Hello, I'm Qilin, a first-year graduate student at UChicago. My journey spans th
 
 ## 💡 Professional Interests
 - **Computer Vision:** OpenCV projects with detection, classification, and GAN models.
-  - Vulnerable Marine Ecosystem Detection; Protect Coral Reefs [Project Link](https://github.com/QilinZhou56/VME_Detector/blob/main/Marine%20Species%20Detection%20OpenCV/README.md)
+  - Vulnerable Marine Ecosystem Detection; Protect Coral Reefs [Marine VME Detector](https://github.com/QilinZhou56/VME_Detector/blob/main/Marine%20Species%20Detection%20OpenCV/README.md)
 - **Data Visualization:** Leveraging visual tools to interpret complex data.
-  - Daily Stock Price Movement with Prediction GUI: [Project Link](https://github.com/qilinzho56/SP500_Voldemort)
+  - Daily Stock Price Movement with Prediction GUI: [Global Stock GUI](https://github.com/qilinzho56/SP500_Voldemort)
   - Chicago Taxi Trip 90-day Forecasts with ARIMA training on 01-2018 to 12-2019 in the Loop Area: [Interactive Forecast Visualization](https://uchicago.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=b86cf5285a344c19bc4d5244e9e0f578)
 - **Text Mining:** Feature Engineering based on token distribution and visualize network graphs for word associations
   - [Adjective Extraction in Four-Year-Old Children's Picture-Reading Activities](https://github.com/QilinZhou56/Language-and-Cognitive-Research.git)
