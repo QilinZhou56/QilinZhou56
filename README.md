@@ -7,6 +7,7 @@ Hello, I'm Qilin, a first-year graduate student at UChicago. My journey spans th
 - **Undergraduate:** Applied Mathematics and Psychology, in UCLA
 
 ## 💡 Professional Interests
+- **Current work**: I am currently working as an ML/AI summer intern at Cotiviti. 
 - **Computer Vision:** OpenCV projects with detection, classification, and GAN models.
   - Vulnerable Marine Ecosystem Detection; Protect Coral Reefs [Marine VME Detector](https://github.com/QilinZhou56/VME_Detector/blob/main/Marine%20Species%20Detection%20OpenCV/README.md)
 - **Data Visualization:** Leveraging visual tools to interpret complex data.
