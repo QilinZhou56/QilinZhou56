@@ -7,9 +7,10 @@ Hello, I'm Qilin, a first-year graduate student at UChicago. My journey spans th
 - **Undergraduate:** Applied Mathematics and Psychology, in UCLA
 
 ## 💡 Professional Interests
-- **Current work**: I am currently working as an ML/AI summer intern at Cotiviti. 
+- **Quality Assurance**: I worked as AI/ML summer intern for Cotiviti Quality Division, where I developed a tree-model based predictive pipeline for health plan member compliance and packaged it for Cotiviti's Quality Reporting Software.
 - **Computer Vision:** OpenCV projects with detection, classification, and GAN models.
   - Vulnerable Marine Ecosystem Detection; Protect Coral Reefs [Marine VME Detector](https://github.com/QilinZhou56/VME_Detector/blob/main/Marine%20Species%20Detection%20OpenCV/README.md)
+  - Historical Document Image Extraction; YOLOv8 Object Detection and U-Net based Segmentation [PicAxe](https://github.com/acguerr1/imageextraction/tree/PicAxe_YOLO)
 - **Data Visualization:** Leveraging visual tools to interpret complex data.
   - Daily Stock Price Movement with Prediction GUI: [Global Stock GUI](https://github.com/qilinzho56/SP500_Voldemort)
   - Chicago Taxi Trip 90-day Forecasts with ARIMA training on 01-2018 to 12-2019 in the Loop Area: [Interactive Forecast Visualization](https://uchicago.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=b86cf5285a344c19bc4d5244e9e0f578)
@@ -18,7 +19,7 @@ Hello, I'm Qilin, a first-year graduate student at UChicago. My journey spans th
 - **Extensive Data Processing:** Managing and analyzing extensive datasets for social research.
   - [Resource Imbalance in Tanzanian Education: Bridging the Gap between Infrastructure and Access: 23,593 households](https://experience.arcgis.com/experience/67f3c5be15e04f859b269f6d159f25f2)
   - [Preschool Assessment Change Appears No Correlation With Enrollment and Funding in USA (2007-2020): 13788 preschool-year-old children](https://www.arcgis.com/apps/instant/interactivelegend/index.html?appid=921368870c9843fa92702d23de68526e)
-- **Fields of Interest:** Computer Vision, Education, Language Development, Economics, Business Management
+- **Fields of Interest:** Quality Assurance, Computer Vision, Language Development, Education
   
 ## 👥 Collaboration
 I'm on the lookout for collaborative projects, especially those involving data visualization and large data processing. Let's connect and make an impact together!
