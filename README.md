@@ -9,7 +9,7 @@ Hello, I'm Qilin, a first-year graduate student at UChicago. My journey spans th
 ## 💡 Professional Interests
 - **Quality Assurance**: I worked as AI/ML summer intern for Cotiviti Quality Division, where I developed a tree-model based predictive pipeline for health plan member compliance and packaged it for Cotiviti's Quality Reporting Software.
 - **Computer Vision:** OpenCV projects with detection, classification, and GAN models.
-  - Vulnerable Marine Ecosystem Detection; Protect Coral Reefs [Marine VME Detector](https://github.com/QilinZhou56/VME_Detector/blob/main/Marine%20Species%20Detection%20OpenCV/README.md)
+  - Vulnerable Marine Ecosystem Detection; Protect Coral Reefs [Marine VME Detector](https://github.com/QilinZhou56/VME_Detector/tree/main)
   - Historical Document Image Extraction; YOLOv8 Object Detection and U-Net based Segmentation [PicAxe](https://github.com/acguerr1/imageextraction/tree/PicAxe_YOLO)
 - **Data Visualization:** Leveraging visual tools to interpret complex data.
   - Daily Stock Price Movement with Prediction GUI: [Global Stock GUI](https://github.com/qilinzho56/SP500_Voldemort)
