@@ -21,7 +21,7 @@ Hello, I'm Qilin, a second-year graduate student at UChicago. My journey spans t
   - [Preschool Assessment Change Appears No Correlation With Enrollment and Funding in USA (2007-2020): 13788 preschool-year-old children](https://www.arcgis.com/apps/instant/interactivelegend/index.html?appid=921368870c9843fa92702d23de68526e)
 - **Mathematical Modelling:**
   - [Modified SIR Model Concerning Virus Type, Vaccination, and Social Distance](https://drive.google.com/drive/folders/1iPnmPNi2qth5bs41n_DBc1GisHF7gfB1?usp=sharing)
-- **Fields of Interest:** Computer Vision, Cognitive Development, Quality Assurance
+- **Fields of Interest:** Computer Vision, Cognitive Science, Digital Humanities, Quality Assurance
   
 ## 👥 Collaboration
 I'm on the lookout for collaborative projects, especially those involving data visualization and large data processing. Let's connect and make an impact together!
