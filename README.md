@@ -7,7 +7,7 @@ Hello, I'm Qilin, a data scientist with expertise in machine learning model conf
 - **Undergraduate:** Applied Mathematics and Psychology, in UCLA
 
 ## 💡 On-going research projects 
-- **LLM for the Science of Science**: Currently collaborating on a project at the Knowledge Lab, University of Chicago, leveraging large language models (LLMs) to analyze the relationship between scientific literature and patents. The project aims to identify which elements of scientific papers contribute to understanding and influencing patents. [Patent Analysis](https://github.com/QilinZhou56/Patent-Analysis)
+- **LLM for the Science of Science**: Currently collaborating on a project at the Knowledge Lab, University of Chicago, leveraging large language models (LLMs) with PySpark to analyze the relationship between scientific literature and patents. The project aims to identify which elements of scientific papers contribute to understanding and influencing patents. [Patent Analysis](https://github.com/QilinZhou56/Patent-Analysis)
 
 - **Labor Economics and Practices**: Conducting an evaluation of the Fair Workweek Ordinance's effectiveness from collected employee surveys in three metropolitan cities—New York, Chicago, and Seattle. Using Chi-squared tests and regression analysis with controlled demographic variables, the study assesses the ordinance's impact on labor practices and outcomes.
 
