@@ -1,5 +1,5 @@
 ## 👋 Hi there 👋
-Hello, I'm Qilin, a data scientist with expertise in machine learning model configuration and deployment. With prior experience in healthcare analytics, financial analysis, and cognitive science, I specialize in leveraging data-driven insights to solve complex problems and improve decision-making. My work includes developing predictive models, implementing scalable data pipelines, and creating innovative tools for data analysis. I'm passionate about bridging technical solutions with real-world applications, improving efficiency for public resources.
+Hello, I'm Qilin, a Data Scientist with a strong focus on machine learning model development, evaluation, and deployment. With experience in healthcare analytics, financial analysis, and cognitive science, I focus on building robust, scalable ML models that drive actionable insights. My expertise includes designing predictive algorithms, fine-tuning model architectures, and implementing efficient training and inference pipelines. I am passionate about translating complex data into impactful solutions, leveraging cutting-edge techniques to enhance real-world decision-making and operational efficiency.
  
 ## 🎓 Education
 - **Studying:** Computer Science and Public Policy
