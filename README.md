@@ -16,7 +16,7 @@ Hello, I'm Qilin, a Data Scientist with a strong focus on machine learning model
 
 - **Computer Vision**: Developed various OpenCV and deep learning-based projects involving detection, classification, and generative adversarial networks (GANs).
   - **Vulnerable Marine Ecosystem Detection**: Created a detection system to identify and protect coral reefs from human-caused vulnerabilities. [Marine VME Detector](https://github.com/QilinZhou56/VME_Detector/tree/main)
-  - **Historical Document Image Extraction**: Built a YOLOv8 object detection and U-Net-based segmentation model for extracting and analyzing images from historical documents. [PicAxe](https://github.com/acguerr1/imageextraction/tree/PicAxe_YOLO)
+  - **Historical Document Image Extraction**: Built a YOLOv8 object detection and U-Net-based segmentation model pipeline for extracting and analyzing images from historical documents. [PicAxe](https://github.com/acguerr1/imageextraction/tree/PicAxe_YOLO)
 
 - **Stock News Tracker and Analyzer**: Developed a user-friendly GUI for predicting daily stock price movements. Integrated sentiment analysis on stock news to provide actionable insights for traders. [Global Stock GUI](https://github.com/qilinzho56/SP500_Voldemort)
 
