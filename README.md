@@ -6,6 +6,8 @@ Hello, I'm Qilin, a Data Scientist with a strong focus on machine learning model
 - **Institution:** University of Chicago
 - **Undergraduate:** Applied Mathematics and Psychology, in UCLA
 
+## Recent Applications
+- Stock Trading Helper Based on Javascript, CSS, HTML, and REST API. [WallStreet Quad](https://github.com/YouQu2543725306/wallstreet/tree/V1.0.0)
 ## 💡 On-going research projects 
 - **CalWorks LLM Application:** Develop local LLM summarizer and RAG application for California Department of Social Services in annual county report check. [LLM Document Analysis](https://github.com/QilinZhou56/CalWorks.git)
 - **Argonne National Laboratory Data Science Clinic:** Develop codes to ensure export control for sensitive documents, and requirements management.
